@@ -4,3 +4,6 @@
 3. Axel Jahir Alvarado Alegria 00216022
 4. Valeria Elizabeth Ortiz Romero 00206022 
 5. Diego Sebastian Jimenez Artiga 00074720
+
+
+![Equipo](files/Equipo.png)
