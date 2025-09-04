@@ -5,4 +5,4 @@ par_o_impar :-
     (   Resultado =:= 0
         ->write(Numero), write('SI es par'),nl
         : write(Numero), write('No es par'), nl
-    )
+    ).
