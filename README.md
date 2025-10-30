@@ -52,5 +52,3 @@ Su propósito es servir como un espacio colaborativo donde el equipo trabaja de 
 <p align="center">
   <img src="files/Equipo.png" alt="Equipo AMGEMS" width="600px">
 </p>
-
----
