@@ -54,6 +54,3 @@ Su propósito es servir como un espacio colaborativo donde el equipo trabaja de 
 </p>
 
 ---
-
-## 📁 Estructura del Repositorio
-
