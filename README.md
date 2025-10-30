@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Universidad Centroamericana "José Simeón Cañas" (UCA)</strong><br>
-  <em>Facultad de Ingeniería y Arquitectura · Departamento de Informática y Electónica</em>
+  <em>Facultad de Ingeniería y Arquitectura · Departamento de Informática y Electrónica</em>
 </p>
 
 ---
